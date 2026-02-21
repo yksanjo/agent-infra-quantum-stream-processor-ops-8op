@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-quantum-stream-processor-ops-8op",
+  "version": "1.0.0",
+  "description": "Distributed system for high-performance processing",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "quantum-stream-processor-ops-8op"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-quantum-stream-processor-ops-8op.git"
+  }
+}
